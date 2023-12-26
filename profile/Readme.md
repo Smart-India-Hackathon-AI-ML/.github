@@ -58,13 +58,13 @@ These subscription packages are designed to cater to varying needs and preferenc
 - Special feature for people with disability
 
 # Screenshots
-![index](https://github.com/eDemy-SIH/eDemy-App/assets/121813676/8959c9d2-5627-49dc-96f1-7b7b60dc0e04)
+![image 1](https://i.postimg.cc/L8GYHRD3/image-1.png)
 
-![qstn](https://github.com/eDemy-SIH/eDemy-App/assets/121813676/7717fb3c-b0ed-4f03-b98f-eb05765670d8)
+![image 2](https://i.postimg.cc/R0zSs0Gy/image-2.png)
 
-![Screenshot 2023-12-20 160019](https://github.com/eDemy-SIH/eDemy-App/assets/121813676/da37b532-51e7-4d61-84f9-989b37425ea0)
+![image 3](https://i.postimg.cc/FRThHVmX/image-3.png)
 
-![out](https://github.com/eDemy-SIH/eDemy-App/assets/121813676/ce93d024-b2f1-4cc1-be54-49490b2394e6)
+![image 4](https://i.postimg.cc/5yjbYQNY/image-4.png)
 
 
 <img src="https://i.postimg.cc/L5JzVVd3/900e96d6-39c2-4075-8521-8fa5f7023b22.jpg" width="32%"> <img src="https://i.postimg.cc/Wb6Hq2np/aedb5700-55a0-4afc-bc35-a97288f3c301.jpg" width="32%">  <img src="https://i.postimg.cc/1tBQKp0X/6c36a932-95c2-4090-bc7d-fb7b735088df.jpg" width="32%"> 
