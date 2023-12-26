@@ -95,8 +95,10 @@ git clone https://github.com/eDemy-SIH/eDemy-App.git
 3. Add a new project in [Firebase Console](https://console.firebase.google.com/) and under Authentication enable Email/Password and Google Sign In
    
 4. Replace the firebase_options.dart file.
-5. 
-6. Add SHA1 and SHA256 fingerprints under project settings
+
+5. Add SHA1 and SHA256 fingerprints under project settings.
+
+6.  In the file ```lib\utils\ai-chat-receive.dart``` replace ```YOUR_API_KEY``` with your own openAi api key.
 
 7. Run the app with Android Studio or VS Code. Or the command line:
 ```
@@ -113,6 +115,11 @@ This project would not have been possible without the efforts of the following p
 - Priyanshu Dutta &nbsp;[(@priyanshudutta04)](https://github.com/priyanshudutta04)
 - Rishi Bhattasali &nbsp;[(@Rishi2403)](https://github.com/Rishi2403)
 - Sonika Biswas &nbsp;[(@Sonika12Biswas)](https://github.com/Sonika12Biswas)
+
+## Repositories used in this project
+
+[eDemy App](https://github.com/eDemy-SIH/eDemy-App) <br>
+[eDemy Website](https://github.com/eDemy-SIH/eDemy-Website) <br>
 
 ## License
 
