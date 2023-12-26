@@ -10,6 +10,12 @@ Scan the QR Code to Download the app
 <img src="https://i.postimg.cc/gcv4mshX/qr-code.png" height="300px">
 
 
+## Visit our Website
+
+<a href="https://edemy-32175.vercel.app/" target="_blank" style="text-decoration: none !important;">Click Here</a> to visit our Website.
+
+
+
 ## How does our software work ?
 
 Jobs are determined by skills, while careers are influenced by personalities. Keeping this principle in mind, we have developed innovative software that utilizes personality and adaptive technology solutions.
