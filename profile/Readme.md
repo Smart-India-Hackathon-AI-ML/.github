@@ -2,6 +2,14 @@
 
 India's Best AI Powered Career Counseling Platform
 
+
+## Download the app
+
+Scan the QR Code to Download the app
+
+<img src="https://i.postimg.cc/gcv4mshX/qr-code.png" height="300px">
+
+
 ## How does our software work ?
 
 Jobs are determined by skills, while careers are influenced by personalities. Keeping this principle in mind, we have developed innovative software that utilizes personality and adaptive technology solutions.
