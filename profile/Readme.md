@@ -7,7 +7,7 @@ India's Best AI Powered Career Counseling Platform
 
 Scan the QR Code to Download the app
 
-<img src="https://i.postimg.cc/gcv4mshX/qr-code.png" height="300px">
+<img src="https://i.postimg.cc/HkTnNwDC/e-Demy-qr-code.png" height="300px">
 
 
 ## Visit our Website
