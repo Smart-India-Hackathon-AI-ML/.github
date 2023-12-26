@@ -90,9 +90,19 @@ flutter pub get
 flutter run
 ```
 
+## Contributions
+
+This project would not have been possible without the efforts of the following people:
+
+- Satyaki Dey &nbsp;[(@SatyakiDey75)](https://github.com/SatyakiDey75)
+- Arunava Dutta &nbsp;[(@ArunavaCoderEm)](https://github.com/ArunavaCoderEm)
+- Priyanshu Dutta &nbsp;[(@priyanshudutta04)](https://github.com/priyanshudutta04)
+- Rishi Bhattasali &nbsp;[(@Rishi2403)](https://github.com/Rishi2403)
+- Sonika Biswas &nbsp;[(@Sonika12Biswas)](https://github.com/Sonika12Biswas)
+
 ## License
 
-[MIT License © eDemy](https://github.com/eDemy-SIH/eDemy-App/blob/main/LICENSE)
+[MIT License © eDemy](https://github.com/eDemy-SIH/eDemy-Website/blob/main/LICENSE)
 
 
 
